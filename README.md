@@ -1,0 +1,2 @@
+# NetworkProject
+C'est un projet en réseaux composé de deux parties : implementation et recherche . J'ai installé le serveur squid pour mieux comprendre le role dún serveur proxy et toutes les etapes sont expliquees dans le fichier word accompagne dún power point et dún autre fichier word pour definir ,expliquer et montrer límportance du serveur mandataire .   Aussi j`ai installe " active directory " en tant que projet dímplementation  pour se convaincre de ses interets (Identiifer les objets sur le reseau , administration centralisee et simplifiee ,.. ) 
